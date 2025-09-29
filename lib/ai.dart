@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_generative_ai/google_generative_ai.dart';
 
-String apiKey = "AIzaSyB_qSJaCB6qC--vnugcfXelxtfpkEhNca0";
-
+String apiKey = "";
 
 class ChatScreen extends StatefulWidget {
   @override
