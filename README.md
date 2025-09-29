@@ -1,16 +1,9 @@
-# catatan
+Catatan
 
-A new Flutter project.
+Aplikasi catatan berbasis Flutter yang menggunakan Firebase untuk penyimpanan data dan Google Generative AI untuk fitur obrolan cerdas.
 
-## Getting Started
+Fitur
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Pencatatan teks dengan penyimpanan real-time menggunakan Firebase Firestore.
+- Obrolan cerdas menggunakan Google Generative AI.
+- Antarmuka pengguna yang responsif dan ramah pengguna.
